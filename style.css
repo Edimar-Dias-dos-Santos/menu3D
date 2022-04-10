@@ -1,0 +1,11 @@
+html {
+    height: 100%;
+    display: flex;
+}
+
+body {
+    position: relative;
+    margin: auto;
+    background: #181620;
+    perspective: 500px;
+}
